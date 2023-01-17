@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.fbox{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.box{
+	width:100px;
+	height:100px;
+	background-color:lightgreen;
+	margin:10px;
+}
